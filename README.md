@@ -35,3 +35,5 @@
 
 
 [![@durgesh4993's Holopin board](https://holopin.me/durgesh4993)](https://holopin.io/@durgesh4993)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
