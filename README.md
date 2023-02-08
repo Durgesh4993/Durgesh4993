@@ -1,4 +1,4 @@
-<img style="width:1000vh; height:280px; background-size: cover;" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="">
+<img style="width:1000vh; height:300px; background-size: cover;" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="">
 
 <h1 align="center">Hi 👋, I'm Durgesh Kumar Prajapati</h1>
 <h3 align="center">A full stack web developer from India</h3>
