@@ -8,9 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Data structure**
-- 💬 Ask me about **Web development**
-- 📫 How to reach me **durgeshkumar4993@gmail.com**
+- I am a **Full stack Web Developer**
+- Also a Open **Source Developer**
+- I’m currently learning **Data structure**
+- Ask me about **Web development**
+- How to reach me **durgeshkumar4993@gmail.com**
 
 # ☎️ Connect with me:
 <a href="https://www.linkedin.com/in/durgeshkumar4993/">
