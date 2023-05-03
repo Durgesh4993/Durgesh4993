@@ -21,7 +21,7 @@
    <a href="https://durgesh4993.github.io/MyProfolio.github.io/">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
-   <a href="https://leetcode.com/durgeshkumar4993/">
+   <a href="https://leetcode.com/durgesh4993/">
 		<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
 	</a>
 	<a href="https://twitter.com/durgesh4993">
