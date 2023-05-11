@@ -1,6 +1,6 @@
 <img style="width:1500vh; height:300px; background-size: cover;" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="">
 <h1 align="center">Hi 👋, I'm Durgesh Kumar Prajapati</h1>
-<h3 align="center">A full stack web developer from India</h3>
+<h3 align="center">A Full stack web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cloud.appwrite.io/v1/cards/cloud?userId=6452578166de66e41c45"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgesh4993&label=Profile%20views&color=0e75b6&style=flat" alt="durgesh4993" /> </p>
