@@ -3,7 +3,7 @@
 </div>  
 
 <h1 align="center">Hi 👋, I'm Durgesh Kumar Prajapati</h1>
-<h3 align="center">Writing code, shaping the future</h3>
+<h3 align="center">when you don't create things, you become defined by your tastes rather than ability</h3>
 <img align="right" alt="Coding" width="400" src="https://cloud.appwrite.io/v1/cards/cloud?userId=6452578166de66e41c45"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgesh4993&label=Profile%20views&color=0e75b6&style=flat" alt="durgesh4993" /> </p>
