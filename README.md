@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg" align="center" style="width: 100%" />
+<img src="https://github.com/Durgesh4993/Durgesh4993/assets/98798977/34e8e59f-44e9-416c-84ff-0f3eb42bcb6f" align="center" style="width: 100%" />
 </div>  
 
 <h1 align="center">Hi 👋, I'm Durgesh Kumar Prajapati</h1>
