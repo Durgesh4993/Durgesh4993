@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Durgesh Kumar Prajapati</h1>
 <h3 align="center">Any fool can write code that a computer can understand </br> Good programmers write code that humans can understand.” – Martin Fowler</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cloud.appwrite.io/v1/cards/cloud?userId=6452578166de66e41c45"/>
+<img align="right" alt="Coding" width="400" src="https://github.com/Durgesh4993/Durgesh4993/assets/98798977/ca8960a6-f99c-4c0f-b9ba-ce77226b2531"/>
 
 
 
