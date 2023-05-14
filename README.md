@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Durgesh4993/Durgesh4993/assets/98798977/34e8e59f-44e9-416c-84ff-0f3eb42bcb6f" align="center" style="width: 100%; Height:300px" />
+<img src="https://github.com/Durgesh4993/Durgesh4993/assets/98798977/34e8e59f-44e9-416c-84ff-0f3eb42bcb6f" align="center" style="width: 100%; Height:250px" />
 </div>  
 
 <h1 align="center">Hi 👋, I'm Durgesh Kumar Prajapati</h1>
