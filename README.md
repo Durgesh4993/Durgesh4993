@@ -20,7 +20,7 @@
 - How to reach me **durgeshkumar4993@gmail.com**
 
 # ☎️ Connect with me:
-<a href="https://www.linkedin.com/in/durgeshkumar4993/">
+<a href="https://www.linkedin.com/in/durgesh4993/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
    <a href="http://durgesh4993.great-site.net/?i=1">
