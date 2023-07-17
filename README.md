@@ -36,7 +36,8 @@
 	<a href="https://dev.to/durgesh4993">
 		<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
 	</a>
-	
+
+ 
 
   ## My Skill Set  
 <table><tr><td valign="top" width="33%">
