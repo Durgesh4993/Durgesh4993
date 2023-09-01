@@ -101,5 +101,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Durgesh4993&bg_color=01030e&color=f4ddf2&line=e0e0e0&point=9892ed&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![@durgesh4993's Holopin board](https://holopin.me/durgesh4993)](https://holopin.io/@durgesh4993)
