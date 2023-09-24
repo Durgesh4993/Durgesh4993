@@ -2,9 +2,7 @@
 <img src="https://github.com/Durgesh4993/Durgesh4993/assets/98798977/b567acd5-1ed8-49a3-b3d0-a6086c5be7ee" align="center" />
 </div>  
 
-
-<h1 align="center">Hi 👋, I'm Durgesh Kumar Prajapati</h1>
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="center">Any fool can write code that a computer can understand </br> Good programmers write code that humans can understand.” – Martin Fowler</h3>
 
