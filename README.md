@@ -104,9 +104,11 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Durgesh4993&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Durgesh4993&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Durgesh4993&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Durgesh4993&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Durgesh4993&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Durgesh4993&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Durgesh4993&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Durgesh4993&theme=algolia&utcOffset=8)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
