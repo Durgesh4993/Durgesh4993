@@ -106,12 +106,10 @@
 
 # 📊 GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Durgesh4993&theme=algolia)
-<span style="padding:200px"> 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Durgesh4993&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Durgesh4993&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Durgesh4993&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Durgesh4993&theme=algolia&utcOffset=8)
-<span>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
