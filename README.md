@@ -106,11 +106,11 @@
 
 
 # 📊 GitHub Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Durgesh4993&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Durgesh4993&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Durgesh4993&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Durgesh4993&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Durgesh4993&theme=algolia&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=durgesh4993&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=durgesh4993&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=durgesh4993&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=durgesh4993&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=durgesh4993&theme=dark&utcOffset=8)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -121,7 +121,7 @@
 
 # 🧩 Problem Solving 
 
-![LeetCode Stats](https://leetcode.card.workers.dev/Durgesh4993?theme=dark&font=&extension=null)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Durgesh4993?theme=dark&font=Saira%20Semi%20Condensed)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # ⚙️ Working Graph
