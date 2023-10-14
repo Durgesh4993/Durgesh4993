@@ -47,7 +47,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
-# My Skill Set  
+# 🧑‍💼 My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -129,6 +129,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Durgesh4993&bg_color=151515&color=9e4c98&line=79ff97&point=818181&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+# 🏆 Holopin
 [![An image of @durgesh4993's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/durgesh4993)](https://holopin.io/@durgesh4993)
 
 
