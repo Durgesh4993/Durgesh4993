@@ -4,7 +4,7 @@
 </div>  
 
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 
 <h3 align="center">Any fool can write code that a computer can understand </br> Good programmers write code that humans can understand.” – Martin Fowler</h3>
@@ -25,7 +25,7 @@
 - Ask me about anything related to **Web Development** and **Open Source Development**  
 - How to reach me **durgeshkumar4993@gmail.com**
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 # ☎️ Connect with me:
 <a href="https://www.linkedin.com/in/durgesh4993/">
@@ -45,7 +45,7 @@
 		<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
 	</a>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
  
 # 🧑‍💼 My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -103,7 +103,7 @@
 </td></tr></table>  
 <br/>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 
 # 📊 GitHub Stats:
@@ -113,21 +113,24 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=durgesh4993&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=durgesh4993&theme=dark&utcOffset=8)
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) 
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 # 🧩 Problem Solving 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Durgesh4993?theme=dark&font=Saira%20Semi%20Condensed)
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+
 # ⚙️ Working Graph
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Durgesh4993&bg_color=151515&color=9e4c98&line=79ff97&point=818181&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+----
 
 # 🏆 Holopin
 [![An image of @durgesh4993's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/durgesh4993)](https://holopin.io/@durgesh4993)
