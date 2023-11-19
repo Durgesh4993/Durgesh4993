@@ -116,7 +116,7 @@
 ---
 
 # ✍️ Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="100%"> 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%"> 
 
 ---
 
