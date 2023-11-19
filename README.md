@@ -116,13 +116,12 @@
 ---
 
 # ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="100%"> 
 
 ---
 
 # 🧩 Problem Solving 
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Durgesh4993?theme=dark&font=Saira%20Semi%20Condensed)
+<img src="https://leetcard.jacoblin.cool/Durgesh4993?theme=dark&font=Saira%20Semi%20Condensed" width="100%">
 
 ---
 
