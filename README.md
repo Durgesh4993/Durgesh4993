@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://github.com/Durgesh4993/Durgesh4993/assets/98798977/dd0303b3-d883-451f-bcee-d4e6a01a1fdc" align="center" />
+<img src="https://github.com/Durgesh4993/Durgesh4993/assets/98798977/dd05f4d0-a8e9-46a6-904a-3bb902a85de8" align="center" />
 </div>  
 
 
