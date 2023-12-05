@@ -99,7 +99,8 @@
 
 
 # 📊 GitHub Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=durgesh4993&theme=dark)
+<img width="685" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=durgesh4993&theme=dark">
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=durgesh4993&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=durgesh4993&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=durgesh4993&theme=dark)
