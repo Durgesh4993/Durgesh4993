@@ -34,7 +34,7 @@
 - Currently i am looking for **New Opportunities as a Softwer Developer Engineer** 
 - I’m currently working as a **Open Source contributor & Mentor** at Hack2skill [ Social Winter Of Code ] - SWoC'24.
 - I have participated in multiple Open Source Programs be like **@SWoC'24 @GSSoC'23 @SSoC'23 @SWoC'23 and @Hacktoberfest'22 @Hacktoberfest'23**
-- I have Contributed in @XWiki @Wikimedia Foundation @The Tor Project and @Omega Up Orgeanizations.
+- I have Contributed in **@XWiki @Wikimedia Foundation @The Tor Project and @Omega Up** Orgeanizations.
 - Ask me about anything related to **Web Development** and **Open Source Development**
 - As a Full Stack Web Developer, i am able to write in three different stacks [ PHP Developer, MERN Developer, .Net Developer ]
 - How to reach me **durgeshkumar4993@gmail.com**
