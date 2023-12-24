@@ -31,9 +31,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- I’m currently working as a **Open Source contributor & Mentor** at Hack2skill (Social Winter Of Code) - SWoC'24.
+- I’m currently working as a **Open Source contributor & Mentor** at Hack2skill [ Social Winter Of Code ] - SWoC'24.
 - Currently i am looking for **New Opportunities as a Softwer Developer Engineer** 
-- I have participated in multiple Open Source Programs be like **@GSSoC'23 @SSoC'23 @SWoC'23 and Hacktoberfest'22**
+- I have participated in multiple Open Source Programs be like **@SWoC'24 @GSSoC'23 @SSoC'23 @SWoC'23 and @Hacktoberfest'22 @Hacktoberfest'23**
 - Ask me about anything related to **Web Development** and **Open Source Development**  
 - How to reach me **durgeshkumar4993@gmail.com**
 
