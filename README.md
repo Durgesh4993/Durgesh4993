@@ -85,10 +85,10 @@
 # 📊 GitHub Stats:
 <img width="1500" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=durgesh4993&theme=dark">
 <p float="left">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=durgesh4993&theme=dark"> 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=durgesh4993&theme=dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=durgesh4993&theme=dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=durgesh4993&theme=dark&utcOffset=8">
+<img width="502" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=durgesh4993&theme=dark"> 
+<img width="502" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=durgesh4993&theme=dark">
+<img width="750" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=durgesh4993&theme=dark">
+<img width="750" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=durgesh4993&theme=dark&utcOffset=8">
 </p>
 
 
