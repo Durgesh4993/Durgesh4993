@@ -1,24 +1,33 @@
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Custom Designed Banner ---------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
 <div align="center">
-<img src="https://github.com/Durgesh4993/Durgesh4993/assets/98798977/3ad73bec-2b47-466f-9c28-7a40a2f2a9be" align="center" />
-	
-</div>  <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=durgesh4993&label=Profile%20views&color=%230A0209&style=flat" alt="durgesh4993" />  <br><br>
+<img src="https://github.com/Durgesh4993/Durgesh4993/assets/98798977/3ad73bec-2b47-466f-9c28-7a40a2f2a9be" align="center" />	
+</div>  
+</br>
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Visitor Badge + Links ----------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+
+<p align="center"> 
+	<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDurgesh4993&countColor=%230A0209" alt="durgesh4993" />  <br><br>
 <a href="https://www.linkedin.com/in/durgesh4993/">
-		<img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" />
-	</a>
- 
-   <a href="https://durgesh4993.github.io/Durgesh4993./">
-		<img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=About.me&logoColor=0A0209" />
-	</a>
-   <a href="https://leetcode.com/durgesh4993/">
-		<img src="https://img.shields.io/badge/-LeetCode-d5d5d5?style=for-the-badge&logo=LeetCode&logoColor=0A0209" />
-	</a>
-	<a href="https://twitter.com/durgesh4993">
-		<img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=twitter&logoColor=0A0209" />
-	</a>
-	<a href="https://dev.to/durgesh4993">
-		<img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" />
-	</a>
+         <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" />
+</a>
+<a href="https://durgesh4993.github.io/Durgesh4993./">
+         <img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=About.me&logoColor=0A0209" />
+</a>
+<a href="https://leetcode.com/durgesh4993/">
+	<img src="https://img.shields.io/badge/-LeetCode-d5d5d5?style=for-the-badge&logo=LeetCode&logoColor=0A0209" />
+</a>
+<a href="https://twitter.com/durgesh4993">
+	<img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=twitter&logoColor=0A0209" />
+</a>
+<a href="https://dev.to/durgesh4993">
+	<img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" />
+</a>
 </p>
 
 ---
