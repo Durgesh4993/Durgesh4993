@@ -52,6 +52,12 @@
 - How to reach me **durgeshkumar4993@gmail.com**
 
 ---
+
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- About Tech  --------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
  
 # 🧑‍💼 My Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 
@@ -71,14 +77,20 @@
 
 ---
 
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- About ststs  --------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
 
 # 📊 GitHub Stats:
 <img width="685" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=durgesh4993&theme=dark">
+<p float="left">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=durgesh4993&theme=dark" width="100"> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=durgesh4993&theme=dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=durgesh4993&theme=dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=durgesh4993&theme=dark&utcOffset=8">
+</p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=durgesh4993&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=durgesh4993&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=durgesh4993&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=durgesh4993&theme=dark&utcOffset=8)
 
 ---
 
