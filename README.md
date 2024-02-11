@@ -87,8 +87,8 @@
 <p float="left">
 <img width="420" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=durgesh4993&theme=dark"> 
 <img width="420" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=durgesh4993&theme=dark">
-<img width="750" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=durgesh4993&theme=dark">
-<img width="750" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=durgesh4993&theme=dark&utcOffset=8">
+<img width="420" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=durgesh4993&theme=dark">
+<img width="420" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=durgesh4993&theme=dark&utcOffset=8">
 </p>
 
 
