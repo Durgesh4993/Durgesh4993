@@ -83,18 +83,18 @@
 
 # Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
 
-| Projects | Deployed Link | Repository | Tech Stack & Tools |
-|:---------|:-------------:|:----------:|:-------------------|
-| ShopWise | - | [View](https://github.com/Durgesh4993/ShopWise) | `Javascript` `jQuery` `Tailwind CSS` `Bootstrap` `PHP` `Solidity` `Ganache` `Tuffle` `Web3.js`  `MetaMask`  | 
-| Car-Racing | - | [View](https://github.com/Durgesh4993/carracing.github.io) | `C#` `.NET` | 
-| Cash-Flow-Minimizer | - | [View](https://github.com/Durgesh4993/Cash-Flow-Minimizer) | `CPP` `Data Structure` `Algorithm` | 
-| E-Lerni | - | [View](https://github.com/Durgesh4993/E-Learni) | `HTML` `CSS` `Bootstrap` `Javascript` `PHP` `WebSockets` `APIs`  | 
-| Photo Editor | [view](https://durgesh4993.github.io/Photo-Editor/) | [View](https://github.com/Durgesh4993/Photo-Editor) | `Javascript` `jQuery` `SASS` `Bootstrap` `PHP`  | 
-| Paint | - | [View](https://github.com/Durgesh4993/paint.github.io) | `C#` `.NET` `ASP.NET` | 
-| Algorithm Visualizer | - | [View](https://github.com/Durgesh4993/Algorithm-Visualizer) | `CPP` `Data Structure` `Algorithm` | 
-| Gas Managment System | - | [View](https://github.com/Durgesh4993/GasManagmentSystem.github.io) | `HTML` `CSS` `Javascript` `PHP` | 
-| Instagrem | - | [View](https://github.com/Durgesh4993/Instagram) | `React.js` `Express.js` `Node.js` `MongoDB` | 
-| WPTS | - | [View](https://github.com/Durgesh4993/WPTS.github.io) | `HTML` `CSS` `Javascript` `PHP` | 
+| Projects | Repository | Tech Stack & Tools |
+|:---------|:----------:|:-------------------|
+| ShopWise | [View](https://github.com/Durgesh4993/ShopWise) | `Javascript` `jQuery` `Tailwind CSS` `Bootstrap` `PHP` `Solidity` `Ganache` `Tuffle` `Web3.js`  `MetaMask`  | 
+| Car-Racing | [View](https://github.com/Durgesh4993/carracing.github.io) | `C#` `.NET` | 
+| Cash-Flow-Minimizer | [View](https://github.com/Durgesh4993/Cash-Flow-Minimizer) | `CPP` `Data Structure` `Algorithm` | 
+| E-Lerni | [View](https://github.com/Durgesh4993/E-Learni) | `HTML` `CSS` `Bootstrap` `Javascript` `PHP` `WebSockets` `APIs`  | 
+| Photo Editor | [View](https://github.com/Durgesh4993/Photo-Editor) | `Javascript` `jQuery` `SASS` `Bootstrap` `PHP`  | 
+| Paint | [View](https://github.com/Durgesh4993/paint.github.io) | `C#` `.NET` `ASP.NET` | 
+| Algorithm Visualizer | [View](https://github.com/Durgesh4993/Algorithm-Visualizer) | `CPP` `Data Structure` `Algorithm` | 
+| Gas Managment System | [View](https://github.com/Durgesh4993/GasManagmentSystem.github.io) | `HTML` `CSS` `Javascript` `PHP` | 
+| Instagrem | [View](https://github.com/Durgesh4993/Instagram) | `React.js` `Express.js` `Node.js` `MongoDB` | 
+| WPTS | [View](https://github.com/Durgesh4993/WPTS.github.io) | `HTML` `CSS` `Javascript` `PHP` | 
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- About ststs  --------------------------------------------------------------------------------------------------------------------------------------- -->
