@@ -33,23 +33,14 @@
 
 ---
 
-<h3 align="center">Any fool can write code that a computer can understand </br> Good programmers write code that humans can understand.” – Martin Fowler</h3>
-
 
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- About ME  --------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-- Currently i am looking for **New Opportunities as a Softwer Developer Engineer**
-- As a Full Stack Web Developer, i am able to write in three different stacks **[ PHP Developer, MERN Developer, .Net Developer ]**
-- I’m currently working as a **Open Source contributor & Mentor** at Hack2skill [ Social Winter Of Code ] - SWoC'24.
-- I have Contributed in **@XWiki @Wikimedia Foundation @The Tor Project and @Omega Up** Orgeanizations.
-- I have also participated in multiple Open Source Programs be like **@SWoC'24 @GSSoC'23 @SSoC'23 @SWoC'23 and @Hacktoberfest'22 @Hacktoberfest'23** etc.
-- I am also be part of Development team in **Chaibasa Engineering College**
-- I am a **Campus Ambassador** of **SR Institute of Mamagement & Technolgy** From GeeksForGeeks, Skill India and Coding Ninja.
-- Also working as core member at **DevSource, HackForCode, OsCommunity and Coding Bits**
-- How to reach me **durgeshkumar4993@gmail.com**
+
+
 
 ---
 
