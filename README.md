@@ -52,6 +52,8 @@
 > ⏭️ Admin of [Chrome Gaming](https://github.com/GameSphere-MultiPlayer) Organization and also part of Muliple Open Source Organizations as a Core Member
 
 > ⏭️ As a Competitive Programmer my global rank at [LeetCode](https://leetcode.com/durgesh4993/) is 31,134 and at [Geeksforgeeks](https://auth.geeksforgeeks.org/user/durgesh4993/practice/) is 399 and also i am at Specialist level on [Coding Ninjas](https://www.codingninjas.com/studio/profile/Durgesh4993) Platform
+
+> ⏭️ Contact with me durgeshkumar4993@gmail.com 
 ---
 
 
