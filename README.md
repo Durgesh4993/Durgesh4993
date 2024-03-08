@@ -122,7 +122,8 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 # 🧩 Problem Solving 
-<img src="https://leetcard.jacoblin.cool/Durgesh4993?theme=dark&font=Saira%20Semi%20Condensed" width="100%">
+<img src="https://leetcard.jacoblin.cool/Durgesh4993?theme=dark&font=Rammetto%20One&ext=heatmap" width="50%">
+
 
 ---
 
