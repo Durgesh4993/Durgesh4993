@@ -43,10 +43,11 @@
 
 > ⏭️ Full Stack ( [PHP](https://www.php.net/) / [MERN](https://www.mongodb.com/mern-stack) ) Web Developer from India, With 2 year experience of Open Source Developemnt.
 
-> ⏭️ As a Open Source Contributor i have Contributed in [XWiki](https://github.com/xwiki) , [The Tor Project](https://gitlab.torproject.org/tpo) And [OmegaUp](https://github.com/omegaup) Organization
+> ⏭️ As a Open Source Contributor, i have Contributed in [XWiki](https://github.com/xwiki) , [The Tor Project](https://gitlab.torproject.org/tpo) And [OmegaUp](https://github.com/omegaup) Organization
 
+> ⏭️ Additionally i have participated in Multiple Open Source Programs be like [GSSoC](https://gssoc.girlscript.tech/) , [SWoC](https://www.socialwinterofcode.com/) , [SSoC](https://hack2skill.com/hack/ssoc) , [CodePeak](https://www.codepeak.tech/) & [KWoC](https://kwoc.kossiitkgp.org/) and so on..
 
-
+> ⏭️ Admin of [Chrome Gaming](https://github.com/GameSphere-MultiPlayer) Organization and also part of Muliple Open Source Organizations as a Core Member
 ---
 
 
