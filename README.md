@@ -39,7 +39,7 @@
 <!--- -- About ME  --------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-> ⏭️ Pre Final year student of B.Tech (Computer Science Engineering) at [SR Institute Of Management and Technology](https://srimt.co.in/) Lucknow, Uttar Pradesh
+> ⏭️ Pre Final year student of B.Tech (Computer Science Engineering) at [SR Institute Of Management and Technology](https://srimt.co.in/) Lucknow, <br> Uttar Pradesh
 
 > ⏭️ Full Stack ( [PHP](https://www.php.net/) / [MERN](https://www.mongodb.com/mern-stack) ) Web Developer from India, With 2 year experience of Open Source Developemnt.
 
