@@ -39,8 +39,11 @@
 <!--- -- About ME  --------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
+> ⏭️ Pre Final year student of B.Tech (Computer Science Engineering) at [SR Institute Of Management and Technology](https://srimt.co.in/) Lucknow, Uttar Pradesh
 
+> ⏭️ Full Stack ( [PHP](https://www.php.net/) / [MERN](https://www.mongodb.com/mern-stack) ) Web Developer from India, With 2 year experience of Open Source Developemnt.
 
+> ⏭️ As a Open Source Contributor i have Contributed in [XWiki](https://github.com/xwiki) , [The Tor Project](https://gitlab.torproject.org/tpo) And [OmegaUp](https://github.com/omegaup) Organization
 
 
 
