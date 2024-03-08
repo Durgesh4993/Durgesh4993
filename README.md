@@ -47,7 +47,11 @@
 
 > ⏭️ Additionally i have participated in Multiple Open Source Programs be like [GSSoC](https://gssoc.girlscript.tech/) , [SWoC](https://www.socialwinterofcode.com/) , [SSoC](https://hack2skill.com/hack/ssoc) , [CodePeak](https://www.codepeak.tech/) & [KWoC](https://kwoc.kossiitkgp.org/) and so on..
 
+> ⏭️ [Top 6%](https://quine.sh/user/Durgesh4993) Developers on GitHub, Or Mentor at [LFX](https://openprofile.dev/profile/durgesh4993) (Linux Foundation’s methodology).
+
 > ⏭️ Admin of [Chrome Gaming](https://github.com/GameSphere-MultiPlayer) Organization and also part of Muliple Open Source Organizations as a Core Member
+
+> ⏭️ As a Competitive Programmer my global rank at [LeetCode](https://leetcode.com/durgesh4993/) is 31,134 and at [Geeksforgeeks](https://auth.geeksforgeeks.org/user/durgesh4993/practice/) is 399 and also i am at Specialist level on [Coding Ninjas](https://www.codingninjas.com/studio/profile/Durgesh4993) Platform
 ---
 
 
