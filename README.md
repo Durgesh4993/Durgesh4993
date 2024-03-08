@@ -121,7 +121,17 @@
 <!--- -- About Leetcode stat  --------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-<img src="https://leetcard.jacoblin.cool/Durgesh4993?theme=dark&font=Rammetto%20One&ext=heatmap" width="50%">
+
+<table >
+  <tr>
+    <th>
+            <img height="350" src="https://leetcard.jacoblin.cool/Durgesh4993?theme=dark&font=Rammetto%20One&ext=heatmap"> 
+    </th>
+    <th>
+	    <img height="350" src="https://codeforces-readme-stats.vercel.app/api/card?username=durgesh4993&theme=dark">
+    </th>
+  </tr>
+</table>
 
 
 
