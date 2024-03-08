@@ -53,6 +53,8 @@
 
 > ⏭️ As a Competitive Programmer my global rank at [LeetCode](https://leetcode.com/durgesh4993/) is 31,134 and at [Geeksforgeeks](https://auth.geeksforgeeks.org/user/durgesh4993/practice/) is 399 and also i am at Specialist level on [Coding Ninjas](https://www.codingninjas.com/studio/profile/Durgesh4993) Platform
 
+> ⏭️ As a [Technical Content Writer](https://dev.to/durgesh4993) i have more then 5.5K Followers with 115K Views and 3.2K Reactions
+
 > ⏭️ Contact with me durgeshkumar4993@gmail.com 
 ---
 
