@@ -1,9 +1,30 @@
-name: hello-world
-on: push
+name: GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight
+
 jobs:
-  my-job:
+  generate-stats:
     runs-on: ubuntu-latest
+
     steps:
-      - name: my-step
-        run: echo "Hello World!"
-        
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Generate Stats
+        run: |
+          # Your script or command to generate stats goes here
+          # For example, you can use GitHub CLI to get repository statistics
+          # Replace this with your actual command
+          echo "Total commits: $(gh repo view --json 'default_branch_commits' --jq '.default_branch_commits.total_count')"
+
+      # Add more steps to generate additional stats if needed
+
+      - name: Commit and Push Stats
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add .
+          git commit -m "Update stats [skip ci]"
+          git push
