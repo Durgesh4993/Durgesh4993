@@ -1,30 +1,19 @@
-name: GitHub Stats
-
+name: Metrics
 on:
-  schedule:
-    - cron: '0 0 * * *' # Runs every day at midnight
-
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
 jobs:
-  generate-stats:
+  github-metrics:
     runs-on: ubuntu-latest
-
+    environment: 
+      name: production
+    permissions:
+      contents: write
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
-
-      - name: Generate Stats
-        run: |
-          # Your script or command to generate stats goes here
-          # For example, you can use GitHub CLI to get repository statistics
-          # Replace this with your actual command
-          echo "Total commits: $(gh repo view --json 'default_branch_commits' --jq '.default_branch_commits.total_count')"
-
-      # Add more steps to generate additional stats if needed
-
-      - name: Commit and Push Stats
-        run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
-          git add .
-          git commit -m "Update stats [skip ci]"
-          git push
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
