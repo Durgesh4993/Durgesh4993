@@ -118,9 +118,7 @@
 <table width="100%">
   <tr>
     <td width="50%">
-          <picture>
 		  <img width="420" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=durgesh4993&theme=transparent"> 
-          </picture>
         </a>
     </td>
     <td width="50%">
