@@ -107,14 +107,47 @@
 
 
 # 📊 GitHub Stats:
+<table width="100%" align="center">
+<tr>
+<td>
 <img width="1500" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=durgesh4993&theme=transparent">
-<p float="left">
-<img width="420" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=durgesh4993&theme=transparent"> 
-<img width="420" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=durgesh4993&theme=transparent">
-<img width="420" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=durgesh4993&theme=transparent">
-<img width="420" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=durgesh4993&theme=transparent&utcOffset=8">
-</p>
+</td>
+</tr>
+</table>
 
+<table width="100%">
+  <tr>
+    <td width="50%">
+          <picture>
+		  <img width="420" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=durgesh4993&theme=transparent"> 
+          </picture>
+        </a>
+    </td>
+    <td width="50%">
+          <picture>
+		  <img width="420" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=durgesh4993&theme=transparent">
+          </picture>
+        </a>
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+          <picture>
+		  <img width="420" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=durgesh4993&theme=transparent">
+          </picture>
+        </a>
+    </td>
+    <td width="50%">
+          <picture>
+		  <img width="420" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=durgesh4993&theme=transparent&utcOffset=8">
+          </picture>
+        </a>
+    </td>
+  </tr>
+</table>
 
 ---
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
