@@ -122,9 +122,7 @@
         </a>
     </td>
     <td width="50%">
-          <picture>
 		  <img width="420" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=durgesh4993&theme=transparent">
-          </picture>
         </a>
     </td>
   </tr>
@@ -133,15 +131,11 @@
 <table width="100%">
   <tr>
     <td width="50%">
-          <picture>
 		  <img width="420" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=durgesh4993&theme=transparent">
-          </picture>
         </a>
     </td>
     <td width="50%">
-          <picture>
 		  <img width="420" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=durgesh4993&theme=transparent&utcOffset=8">
-          </picture>
         </a>
     </td>
   </tr>
