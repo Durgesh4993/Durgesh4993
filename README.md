@@ -146,20 +146,6 @@
 <!--- -- About Leetcode stat  --------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-# 📊 Problem Solving Stats:
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-		  <img height="350" src="https://leetcard.jacoblin.cool/Durgesh4993?theme=dark&font=Rammetto%20One&ext=heatmap"> 
-        </a>
-    </td>
-    <td width="50%">
-		  <img height="300" src="https://codeforces-readme-stats.vercel.app/api/card?username=durgesh4993&theme=dark">
-        </a>
-    </td>
-  </tr>
-</table>
 
 
 ---
