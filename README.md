@@ -63,7 +63,7 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
  
-# 🧑‍💼 My Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&random=false&width=435&lines=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BC+My+Skills+" alt="Typing SVG" /></a>
 
 | Category        | Skills        |
 |-----------------|---------------|
@@ -85,7 +85,7 @@
 <!--- -- Projects  --------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-# Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&random=false&width=435&lines=%F0%9F%93%9D+Projects+" alt="Typing SVG" /></a>
 
 | Projects | Repository | Tech Stack & Tools |
 |:---------|:----------:|:-------------------|
@@ -105,7 +105,7 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 
-# 📊 GitHub Stats:
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&random=false&width=435&lines=%F0%9F%93%8A+GitHub+Stats%3A" alt="Typing SVG" /></a>
 <table width="100%" align="center">
 <tr>
 <td>
@@ -152,7 +152,7 @@
 <!--- -- Working Graph  --------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-# ⚙️ Working Graph
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&random=false&width=435&lines=%E2%9A%99%EF%B8%8F+Working+Graph%3A" alt="Typing SVG" /></a>
 
 [![Durgesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Durgesh4993&bg_color=151515&color=9e4c98&line=79ff97&point=818181&area=true&hide_border=true)](https://github.com/durgesh4993/github-readme-activity-graph)
 
@@ -163,7 +163,8 @@
 <!--- -- Holopin --------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-# 🏆 Holopin
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&random=false&width=435&lines=%F0%9F%8F%86+Holopin%3A" alt="Typing SVG" /></a>
+
 [![An image of @durgesh4993's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/durgesh4993)](https://holopin.io/@durgesh4993)
 
 ---
