@@ -37,25 +37,25 @@
 <!--- -- About ME  --------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-> ⏭️ Pre Final year student of B.Tech (Computer Science Engineering) at [SR Institute Of Management and Technology](https://srimt.co.in/) Lucknow, <br> Uttar Pradesh
+#### ➤ [➤]() Pre Final year student of B.Tech (Computer Science Engineering) at [SR Institute Of Management and Technology](https://srimt.co.in/) Lucknow, <br> Uttar Pradesh
 
-> ⏭️ Full Stack ( [PHP](https://www.php.net/) / [MERN](https://www.mongodb.com/mern-stack) ) Web Developer from India, With 2 year experience of Open Source Developemnt.
+#### ➤ [➤]() Full Stack ( [PHP](https://www.php.net/) / [MERN](https://www.mongodb.com/mern-stack) ) Web Developer from India, With 2 year experience of Open Source Developemnt.
 
-> ⏭️ Currently i am being part of [Summer of Bitcoin](https://www.summerofbitcoin.org/) as a Open Source Develeoper 
+#### ➤ [➤]() Currently i am being part of [Summer of Bitcoin](https://www.summerofbitcoin.org/) as a Open Source Develeoper 
 
-> ⏭️ As a Open Source Contributor, i have Contributed in [XWiki](https://github.com/xwiki) , [The Tor Project](https://gitlab.torproject.org/tpo) And [OmegaUp](https://github.com/omegaup) Organization
+#### ➤ [➤]() As a Open Source Contributor, i have Contributed in [XWiki](https://github.com/xwiki) , [The Tor Project](https://gitlab.torproject.org/tpo) And [OmegaUp](https://github.com/omegaup) Organization
 
-> ⏭️ Additionally i have participated in Multiple Open Source Programs be like [GSSoC](https://gssoc.girlscript.tech/) , [SWoC](https://www.socialwinterofcode.com/) , [SSoC](https://hack2skill.com/hack/ssoc) , [CodePeak](https://www.codepeak.tech/) & [KWoC](https://kwoc.kossiitkgp.org/) and so on..
+#### ➤ [➤]() Additionally i have participated in Multiple Open Source Programs be like [GSSoC](https://gssoc.girlscript.tech/) , [SWoC](https://www.socialwinterofcode.com/) , [SSoC](https://hack2skill.com/hack/ssoc) , [CodePeak](https://www.codepeak.tech/) & [KWoC](https://kwoc.kossiitkgp.org/) and so on..
 
-> ⏭️ [Top 6%](https://quine.sh/user/Durgesh4993) Developers on GitHub, Or Mentor at [LFX](https://openprofile.dev/profile/durgesh4993) (Linux Foundation’s methodology).
+#### ➤ [➤]() [Top 6%](https://quine.sh/user/Durgesh4993) Developers on GitHub, Or Mentor at [LFX](https://openprofile.dev/profile/durgesh4993) (Linux Foundation’s methodology).
 
-> ⏭️ Admin of [Chrome Gaming](https://github.com/GameSphere-MultiPlayer) Organization and also part of Muliple Open Source Organizations as a Core Member
+#### ➤ [➤]() Admin of [Chrome Gaming](https://github.com/GameSphere-MultiPlayer) Organization and also part of Muliple Open Source Organizations as a Core Member
 
-> ⏭️ As a Competitive Programmer my global rank at [LeetCode](https://leetcode.com/durgesh4993/) is 31,134 and at [Geeksforgeeks](https://auth.geeksforgeeks.org/user/durgesh4993/practice/) is 399 and also i am at Specialist level on [Coding Ninjas](https://www.codingninjas.com/studio/profile/Durgesh4993) Platform
+#### ➤ [➤]() As a Competitive Programmer my global rank at [LeetCode](https://leetcode.com/durgesh4993/) is 31,134 and at [Geeksforgeeks](https://auth.geeksforgeeks.org/user/durgesh4993/practice/) is 399 and also i am at Specialist level on [Coding Ninjas](https://www.codingninjas.com/studio/profile/Durgesh4993) Platform
 
-> ⏭️ As a [Technical Content Writer](https://dev.to/durgesh4993) i have more then 5.5K Followers with 115K Views and 3.2K Reactions
+#### ➤ [➤]() As a [Technical Content Writer](https://dev.to/durgesh4993) i have more then 5.5K Followers with 115K Views and 3.2K Reactions
 
-> ⏭️ Contact with me durgeshkumar4993@gmail.com 
+#### ➤ [➤]() Contact with me durgeshkumar4993@gmail.com 
 ---
 
 
