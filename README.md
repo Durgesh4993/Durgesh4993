@@ -38,25 +38,16 @@
 <!--- -- About ME  --------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-#### ➤ [➤]() Pre Final year student of B.Tech (Computer Science Engineering) at [SR Institute Of Management and Technology](https://srimt.co.in/) Lucknow, <br> Uttar Pradesh
 
-#### ➤ [➤]() Full Stack ( [PHP](https://www.php.net/) / [MERN](https://www.mongodb.com/mern-stack) ) Web Developer from India, With 2 year experience of Open Source Developemnt.
+<img align="right" width="400px" src="https://github.com/user-attachments/assets/7fbe5c11-b6ed-43d0-94c9-05d7720b6455">
 
-#### ➤ [➤]() Currently i am being part of [Summer of Bitcoin](https://www.summerofbitcoin.org/) as a Open Source Develeoper 
+- I am a final year student of B.Tech (CSE) at SR institute of Management and Technology...
+-   As a Girlscript Summer of Code contributor, i have worked on impactful open-source projects, gained hands-on coding experience, and collaborate with experienced mentors to enhance your skills and contribute to the tech community.
+-   As a Social Media Manager for Winter of Blockchain, I create and oversee content, engage with the community, and develop strategies to boost brand presence. Key tasks include managing posts, responding to inquiries, and analyzing performance metrics to drive engagement and growth.
+-   As a Social Media Manager for Winter of Blockchain, I create and oversee content, engage with the community, and develop strategies to boost brand presence. Key tasks include managing posts, responding to inquiries, and analyzing performance metrics to drive engagement and growth.nd analyzing performance metrics to drive engagement and growth.
 
-#### ➤ [➤]() As a Open Source Contributor, i have Contributed in [XWiki](https://github.com/xwiki) , [The Tor Project](https://gitlab.torproject.org/tpo) And [OmegaUp](https://github.com/omegaup) Organization
+</br>
 
-#### ➤ [➤]() Additionally i have participated in Multiple Open Source Programs be like [GSSoC](https://gssoc.girlscript.tech/) , [SWoC](https://www.socialwinterofcode.com/) , [SSoC](https://hack2skill.com/hack/ssoc) , [CodePeak](https://www.codepeak.tech/) & [KWoC](https://kwoc.kossiitkgp.org/) and so on..
-
-#### ➤ [➤]() [Top 6%](https://quine.sh/user/Durgesh4993) Developers on GitHub, Or Mentor at [LFX](https://openprofile.dev/profile/durgesh4993) (Linux Foundation’s methodology).
-
-#### ➤ [➤]() Admin of [Chrome Gaming](https://github.com/GameSphere-MultiPlayer) Organization and also part of Muliple Open Source Organizations as a Core Member
-
-#### ➤ [➤]() As a Competitive Programmer my global rank at [LeetCode](https://leetcode.com/durgesh4993/) is 31,134 and at [Geeksforgeeks](https://auth.geeksforgeeks.org/user/durgesh4993/practice/) is 399 and also i am at Specialist level on [Coding Ninjas](https://www.codingninjas.com/studio/profile/Durgesh4993) Platform
-
-#### ➤ [➤]() As a [Technical Content Writer](https://dev.to/durgesh4993) i have more then 5.5K Followers with 115K Views and 3.2K Reactions
-
-#### ➤ [➤]() Contact with me durgeshkumar4993@gmail.com 
 ---
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
