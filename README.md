@@ -39,10 +39,16 @@
 
 <img align="right" width="400px" src="https://github.com/user-attachments/assets/47be1868-53f0-4acd-b87a-a332624462ce"> 
 
-
-- I am a final year student of B.Tech (CSE) at SR institute of Management and Technology...
--   As a Girlscript Summer of Code contributor, i have worked on impactful open-source projects, gained hands-on coding experience, and collaborate with experienced mentors to enhance your skills and contribute to the tech community.
--   As a Social Media Manager for Winter of Blockchain, I create and oversee content, engage with the community, and develop strategies to boost brand presence. Key tasks include managing posts, responding to inquiries, and analyzing performance metrics to drive engagement and growth.
+## About Me:
+- Final Year Student of B.Tech (CSE) at SR Institute of Management & Technology..
+- Currently Working as a Program Manager at Winter of Blockchain..
+- Managing Director at Chrome Gaming organization..
+- Additionally i am city lead of Lucknow & Google Arcade Facilitator..
+- Professionally, I am a Software Engineer and Open Source Contributor..
+- As a Open Source Contributor currently i am contributing in Code for GovTech..
+- And Ex-Contributor at XWiki, The Tor Project and Omega Up Organization..
+  
+  
   
 
 </br>
