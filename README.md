@@ -40,12 +40,12 @@
 <img align="right" width="400px" src="https://github.com/user-attachments/assets/47be1868-53f0-4acd-b87a-a332624462ce"> 
 
 ## About Me:
-- Final Year Student of B.Tech (Computer Science Engineering) at SR Institute of Management & Technology..
-- Currently Working as a Program Manager at Winter of Blockchain..
-- Managing Director at Chrome Gaming organization..
-- Additionally i am city lead of Lucknow & Google Arcade Facilitator..
-- Professionally, I am a Software Engineer and Open Source Contributor at Code for GovTech..
-- As a Open Source Contributor currently i am contributing in A21 Bangladesh..
+- Final Year Student of B.Tech (Computer Science Engineering) at [SR Institute of Management & Technology](https://srimt.co.in/b-tech/)
+- Currently Working as a Program Manager at [Winter of Blockchain](https://gssoc.girlscript.tech/wob)
+- Managing Director at Chrome [Gaming organization](https://www.linkedin.com/company/chromegaming/)
+- Additionally i am [city lead of Lucknow](https://eop.girlscript.tech/) & [Google Arcade Facilitator](https://www.linkedin.com/company/google-cloud-arcade-facilitator-program/)
+- Professionally, I am a Software Engineer and Open Source Contributor at [Code for GovTech](https://www.codeforgovtech.in/c4gt-2024/)
+- As a Open Source Contributor currently i am contributing in [A21 Bangladesh](https://a2i.gov.bd/)
   
 ---
 
