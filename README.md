@@ -42,7 +42,7 @@
 ## About Me:
 - Final Year Student of B.Tech (Computer Science Engineering) at [SR Institute of Management & Technology](https://srimt.co.in/b-tech/)
 - Currently Working as a Program Manager at [Winter of Blockchain](https://gssoc.girlscript.tech/wob)
-- Managing Director at Chrome [Gaming organization](https://www.linkedin.com/company/chromegaming/)
+- Managing Director at [Chrome Gaming organization](https://www.linkedin.com/company/chromegaming/)
 - Additionally i am [city lead of Lucknow](https://eop.girlscript.tech/) & [Google Arcade Facilitator](https://www.linkedin.com/company/google-cloud-arcade-facilitator-program/)
 - Professionally, I am a Software Engineer and Open Source Contributor at [Code for GovTech](https://www.codeforgovtech.in/c4gt-2024/)
 - As a Open Source Contributor currently i am contributing in [A21 Bangladesh](https://a2i.gov.bd/)
