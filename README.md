@@ -46,8 +46,7 @@
 - Additionally i am city lead of Lucknow & Google Arcade Facilitator..
 - Professionally, I am a Software Engineer and Open Source Contributor at Code for GovTech..
 - As a Open Source Contributor currently i am contributing in A21 Bangladesh..
-</br>
-
+  
 ---
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
